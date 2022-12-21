@@ -1,2 +1,5 @@
 # odin-recipes
-First project utilizing the foundations of html to make a recipe based website
+This project features a webpage that has a liast of recipes one can navigate to and discover its contents. 
+
+This project demonstrates the basic functionality of an html webpage. 
+
